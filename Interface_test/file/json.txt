@@ -1,0 +1,12 @@
+{
+  "channelCode": "02",
+  "platformCode": "03",
+  "tradeNo": "1474181275794",
+  "subject": "交易",
+  "payAmount": 1,
+  "notifyUrl": "http://www.agoodme.com",
+  "returnUrl": "http://www.agoodme.com",
+  "extra": "",
+  "openId": "oSlbct45e-fTbFJOtZvZjV5gNKBE",
+  "sign": "E71186621350425E22E0E635D156CAE5"
+}
